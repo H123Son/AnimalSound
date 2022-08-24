@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SoundAnimal</string>
+    <string name="txt_animal_sound">Animal Sound</string>
+    <string name="txt_elephant">Elephant</string>
+    <string name="txt_dog">Dog</string>
+    <string name="txt_turtle">Turtle</string>
+    <string name="txt_go_to_detail">GO TO DETAIL</string>
+    <string name="txt_return">RETURN</string>
+    <string name="txt_elephant_des">Elephants are the largest existing land animals. Three living species are currently recognised: the African bush elephant, the African forest elephant, and the Asian elephant. They are an informal grouping within the family Elephantidae of the order Proboscidea. Elephantidae is the only surviving family of proboscideans; extinct members include the mastodons. Elephantidae also contains several extinct groups, including the mammoths and straight-tusked elephants. African elephants have larger ears and concave backs, whereas Asian elephants have smaller ears, and convex or level backs. Distinctive features of all elephants include a long proboscis called a trunk, tusks, large ear flaps, massive legs, and tough but sensitive skin. The trunk is used for breathing, bringing food and water to the mouth, and grasping objects. Tusks, which are derived from the incisor teeth, serve both as weapons and as tools for moving objects and digging. The large ear flaps assist in maintaining a constant body temperature as well as in communication. The pillar-like legs carry their great weight.</string>
+    <string name="txt_dog_des">The dog or domestic dog (Canis familiaris)[4] is a domesticated descendant of the grey wolf. It has many notable characteristics, the most prominent of which is the upturning tail. The dog derived from an ancient, extinct wolf.[5][6] Today, the modern grey wolf is the dog\'s nearest living relative.Experts assert that the dog was the first species to be domesticated.[8][7] It is believed that domestication took place over 15,000 years ago and was performed by hunter–gatherers[6] before the development of agriculture.</string>
+    <string name="txt_turtle_des">Turtles are an order of reptiles known as Testudines; characterized by a shell developed from their skeleton. Modern turtles are divided into two major groups, the side-necked turtles and hidden neck turtles which differ in the way the head retracts. There are 360 recent (after 1500 AD) species of turtles, including tortoises and terrapins, and they are widely distributed across the world\'s continents and oceans. Turtles are classified as amniotes, along with other reptiles, birds, and mammals. Like other amniotes, they breathe air and do not lay eggs underwater, although many species live in or around water. Genetic evidence typically places them in close affinity with crocodilians and birds.</string>
+    <string name="txt_returnl">RETURN</string>
+
+</resources>

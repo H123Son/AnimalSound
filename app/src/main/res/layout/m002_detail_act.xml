@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:ignore="UseCompoundDrawables">
+
+
+    <TextView
+        android:id="@+id/tv_animal_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:contentDescription="@string/txt_elephant"
+        android:layout_marginBottom="100dp"
+        android:text="@string/txt_elephant"
+        android:textColor="@color/purple_700"
+        android:textSize="36sp" />
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/iv_back"
+            android:layout_width="56dp"
+            android:layout_height="200dp"
+            android:src="@drawable/ic_back"
+            app:tint="@color/purple_500"
+            tools:ignore="ContentDescription" />
+
+        <ImageView
+            android:id="@+id/iv_animal"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:src="@drawable/ic_elephant"
+            tools:ignore="ContentDescription" />
+
+        <ImageView
+            android:id="@+id/iv_next"
+            android:layout_width="56dp"
+            android:layout_height="208dp"
+            android:rotation="180"
+            android:src="@drawable/ic_back"
+            app:tint="@color/purple_500"
+            tools:ignore="ContentDescription" />
+    </TableRow>
+
+    <Button
+        android:id="@+id/bt_return"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="@string/txt_returnl"
+        android:textSize="20sp" />
+
+</LinearLayout>
